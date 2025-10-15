@@ -1,19 +1,19 @@
 export default function Testimonials() {
   const testimonials = [
     {
-      company: "RD ECO Developers",
+      company: "JD Textiles",
       logo: "🏢",
-      text: "Bihar RMC has been a game-changer for RD Eco Developers, exceeding expectations with their ready mix concrete. Their consistent quality, on-time deliveries, and excellent customer service have greatly contributed to our success. Highly recommended for strong and resilient constructions.",
+      text: "Bihar RMC has been a game-changer for JD Textiles, exceeding expectations with their ready mix concrete. Their consistent quality, on-time deliveries, and excellent customer service have greatly contributed to our success. Highly recommended for strong and resilient constructions.",
     },
     {
-      company: "Kushika Traders",
+      company: "Rahul Traders",
       logo: "🏗️",
-      text: "Bihar RMC has been a crucial ally for Kushika Traders. Their top-quality ready mix concrete, coupled with unmatched reliability, has greatly contributed to the success of our projects. We trust Bihar RMC as our go-to supplier for all our concrete needs.",
+      text: "Bihar RMC has been a crucial ally for Rahul Traders. Their top-quality ready mix concrete, coupled with unmatched reliability, has greatly contributed to the success of our projects. We trust Bihar RMC as our go-to supplier for all our concrete needs.",
     },
     {
-      company: "Suvastha Buildcon",
+      company: "Surya Buildcon",
       logo: "🏛️",
-      text: "Bihar RMC is the backbone of Suvastha Buildcon, consistently exceeding expectations with their reliable ready-mix concrete services. Their unwavering quality make them an indispensable partner in our real estate ventures.",
+      text: "Bihar RMC is the backbone of Surya Buildcon, consistently exceeding expectations with their reliable ready-mix concrete services. Their unwavering quality make them an indispensable partner in our real estate ventures.",
     },
   ]
 

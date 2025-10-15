@@ -14,23 +14,38 @@ export default function Hero() {
     "An Efficient Team of Experts",
   ]
 
+  // const slides = [
+  //   {
+  //     title: "READY MIX CONCRETE",
+  //     subtitle: "Professional Construction",
+  //     tagline: "SOLUTION FOR BUILDING",
+  //   },
+  //   {
+  //     title: "QUALITY ASSURANCE",
+  //     subtitle: "Certified Excellence",
+  //     tagline: "BUILDING THE FUTURE",
+  //   },
+  //   {
+  //     title: "TIMELY DELIVERY",
+  //     subtitle: "Your Project Partner",
+  //     tagline: "CONSTRUCTION SIMPLIFIED",
+  //   },
+  // ]
+
   const slides = [
     {
       title: "READY MIX CONCRETE",
       subtitle: "Professional Construction",
       tagline: "SOLUTION FOR BUILDING",
+      bg: "/bg.png", // new hero you provided
     },
     {
-      title: "QUALITY ASSURANCE",
-      subtitle: "Certified Excellence",
-      tagline: "BUILDING THE FUTURE",
-    },
-    {
-      title: "TIMELY DELIVERY",
-      subtitle: "Your Project Partner",
-      tagline: "CONSTRUCTION SIMPLIFIED",
-    },
-  ]
+      title: "READY MIX CONCRETE",
+      subtitle: "Professional Construction",
+      tagline: "SOLUTION FOR BUILDING",
+      bg: "/swc.jpg", // previous hero
+    },
+  ]
 
   useEffect(() => {
     const timer = setInterval(() => {

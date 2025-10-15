@@ -9,13 +9,13 @@ export default function Footer() {
             <div className="flex items-center gap-3 mb-4">
               <div className="w-16 h-16 bg-gradient-to-br from-[#ff6b35] to-[#ff8c42] rounded-lg flex items-center justify-center shadow-lg overflow-hidden">
                 <img
-                  src="https://biharrmc.com/wp-content/uploads/2024/01/logo-1-150x150.png"
-                  alt="Bihar RMC Logo"
+                  src="/logoo.png"
+                  alt=" RMC Logo"
                   className="w-full h-full object-cover"
                 />
               </div>
               <div>
-                <h3 className="text-2xl font-bold">Bihar RMC</h3>
+                <h3 className="text-2xl font-bold">Kapcon RMC Pvt Ltd</h3>
                 <p className="text-sm text-neutral-gray">Ready Mix Concrete</p>
               </div>
             </div>
@@ -74,7 +74,7 @@ export default function Footer() {
                   href="#"
                   className="text-neutral-gray hover:text-[#ff6b35] transition-colors"
                 >
-                  About RMC
+                  About Kapcon RMC Pvt Ltd
                 </a>
               </li>
               <li>
@@ -123,9 +123,9 @@ export default function Footer() {
         {/* Copyright */}
         <div className="border-t border-neutral-gray/30 mt-8 pt-8 text-center">
           <p className="text-neutral-gray">
-            Copyright © 2023{" "}
-            <span className="text-[#ff6b35] font-semibold">Bihar RMC</span> |
-            Designed by <span className="text-[#ff6b35]">DigiMaveric</span>
+            Copyright © 2025{" "}
+            <span className="text-[#ff6b35] font-semibold">Kapcon RMC Pvt Ltd</span> |
+            Designed by <span className="text-[#ff6b35]">Kapcon RMC Pvt Ltd</span>
           </p>
         </div>
       </div>

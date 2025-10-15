@@ -28,7 +28,7 @@ export default function RMCSection() {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Left Content */}
           <div className="text-white">
-            <h2 className="text-4xl lg:text-5xl font-bold mb-4">Bihar RMC</h2>
+            <h2 className="text-4xl lg:text-5xl font-bold mb-4">Kapcon RMC Pvt Ltd</h2>
             <h3 className="text-2xl lg:text-3xl font-semibold mb-8">Leader In Ready Mix Concrete</h3>
             <p className="text-lg leading-relaxed">
               Bihar Ready Mix Concrete ensures superior quality with a precise mix of ingredients, guaranteeing durable

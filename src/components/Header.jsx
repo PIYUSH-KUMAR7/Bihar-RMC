@@ -22,7 +22,7 @@ export default function Header() {
           <div className="flex items-center gap-2">
             <Phone className="w-4 h-4" />
             <span className="font-medium">For Expert Advice</span>
-            <span className="hidden sm:inline">9264296210 | 9264296211</span>
+            <span className="hidden sm:inline">9255555455 | 9294654565</span>
           </div>
           <div className="flex gap-4">
             <a href="#" className="hover:text-[#fed7aa] transition-colors" aria-label="WhatsApp">
@@ -47,16 +47,16 @@ export default function Header() {
           {/* Logo */}
           <div className="flex items-center gap-3">
             <div className="w-16 h-16 bg-gradient-to-br from-[#ff6b35] to-[#ff8c42] rounded-lg flex items-center justify-center shadow-lg overflow-hidden">
-              {/* ✅ Replace 'logo.png' with your actual logo path */}
+              
               <img
-                src="https://biharrmc.com/wp-content/uploads/2024/01/logo-1-150x150.png"
-                alt="Bihar RMC Logo"
+                src="/logoo.png"
+                alt="RMC Logo"
                 className="w-full h-full object-cover"
               />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-[#ff6b35]">Bihar</h1>
-              <p className="text-sm text-neutral-gray font-medium">R M C</p>
+            <h1 className="text-2xl font-bold text-[#ff6b35]">Kapcon RMC Pvt Ltd</h1>
+              <p className="text-sm text-neutral-gray font-medium">Ready Mix Concrete</p>
             </div>
           </div>
 

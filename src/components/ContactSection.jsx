@@ -11,18 +11,18 @@ export default function ContactSection() {
               <div>
                 <h3 className="text-xl font-bold text-neutral-dark mb-2">📍 Address</h3>
                 <p className="text-neutral-gray">
-                  New A G Colony, Balaji Nagar, New Tarachak, Mathiapur, Mobarakpur-Raghurampur, Patna, Bihar 801503
+                 KAPCON RMC PVT LTD Near, Shiwala Chowk, Khagaul, Shivala Par, Tikaitpur, Bihar 801113
                 </p>
               </div>
 
               <div>
                 <h3 className="text-xl font-bold text-neutral-dark mb-2">📧 Email</h3>
-                <p className="text-neutral-gray">contact@biharrmc.com | sales@biharrmc.com</p>
+                <p className="text-neutral-gray">contact@KapconRMC.com | sales@KapconRMC.com</p>
               </div>
 
               <div>
                 <h3 className="text-xl font-bold text-neutral-dark mb-2">📞 Phone</h3>
-                <p className="text-neutral-gray">9264296210 | 9264296211</p>
+                <p className="text-neutral-gray">9255555455 | 9294654565</p>
               </div>
 
               <div>
@@ -37,14 +37,14 @@ export default function ContactSection() {
             {/* Responsive 16:9 container for the iframe */}
             <div className="relative w-full h-full min-h-[280px] lg:min-h-[520px]">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7195.434333744701!2d85.032187!3d25.614313!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ed572fae56c383%3A0xdd4af9fc1dd2374c!2sBihar%20RMC!5e0!3m2!1sen!2sin!4v1760371956438!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3598.6330189636565!2d85.00195767517688!3d25.583873377464066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ed55408eddd635%3A0x89283372e7263981!2sKAPCON%20RMC%20PVT%20LTD!5e0!3m2!1sen!2sin!4v1760541204414!5m2!1sen!2sin"
                 className="absolute inset-0 w-full h-full"
                 style={{ border: 0 }}
                 allowFullScreen=""
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Bihar RMC location on Google Maps"
-              />
+                title="Kapcon RMC Pvt Ltd location on Google Maps"
+              />
             </div>
           </div>
         </div>
