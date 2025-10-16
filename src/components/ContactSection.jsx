@@ -22,7 +22,7 @@ export default function ContactSection() {
 
               <div>
                 <h3 className="text-xl font-bold text-neutral-dark mb-2">📞 Phone</h3>
-                <p className="text-neutral-gray">9255555455 | 9294654565</p>
+                <p className="text-neutral-gray">9264499252 | 9264499252</p>
               </div>
 
               <div>

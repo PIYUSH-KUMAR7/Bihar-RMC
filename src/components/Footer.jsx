@@ -125,7 +125,7 @@ export default function Footer() {
           <p className="text-neutral-gray">
             Copyright © 2025{" "}
             <span className="text-[#ff6b35] font-semibold">Kapcon RMC Pvt Ltd</span> |
-            Designed by <span className="text-[#ff6b35]">Kapcon RMC Pvt Ltd</span>
+            Designed by <span className="text-[#ff6b35]">Ejusgro</span>
           </p>
         </div>
       </div>

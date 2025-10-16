@@ -3,17 +3,17 @@ export default function Testimonials() {
     {
       company: "JD Textiles",
       logo: "🏢",
-      text: "Bihar RMC has been a game-changer for JD Textiles, exceeding expectations with their ready mix concrete. Their consistent quality, on-time deliveries, and excellent customer service have greatly contributed to our success. Highly recommended for strong and resilient constructions.",
+      text: "Kapcon RMC has been a game-changer for JD Textiles, exceeding expectations with their ready mix concrete. Their consistent quality, on-time deliveries, and excellent customer service have greatly contributed to our success. Highly recommended for strong and resilient constructions.",
     },
     {
       company: "Rahul Traders",
       logo: "🏗️",
-      text: "Bihar RMC has been a crucial ally for Rahul Traders. Their top-quality ready mix concrete, coupled with unmatched reliability, has greatly contributed to the success of our projects. We trust Bihar RMC as our go-to supplier for all our concrete needs.",
+      text: "Kapcon RMC has been a crucial ally for Rahul Traders. Their top-quality ready mix concrete, coupled with unmatched reliability, has greatly contributed to the success of our projects. We trust Kapcon RMC as our go-to supplier for all our concrete needs.",
     },
     {
       company: "Surya Buildcon",
       logo: "🏛️",
-      text: "Bihar RMC is the backbone of Surya Buildcon, consistently exceeding expectations with their reliable ready-mix concrete services. Their unwavering quality make them an indispensable partner in our real estate ventures.",
+      text: "Kapcon RMC is the backbone of Surya Buildcon, consistently exceeding expectations with their reliable ready-mix concrete services. Their unwavering quality make them an indispensable partner in our real estate ventures.",
     },
   ]
 

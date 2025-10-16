@@ -7,7 +7,7 @@ export default function Header() {
 
   const navLinks = [
     { name: "Home", href: "#" },
-    { name: "About RMC", href: "#about-rmc" },
+    { name: "About Kapcon", href: "#about-kapcon" },
     { name: "About Us", href: "#about" },
     { name: "Our Lab", href: "#lab" },
     { name: "Happy Clients", href: "#clients" },
@@ -22,7 +22,7 @@ export default function Header() {
           <div className="flex items-center gap-2">
             <Phone className="w-4 h-4" />
             <span className="font-medium">For Expert Advice</span>
-            <span className="hidden sm:inline">9255555455 | 9294654565</span>
+            <span className="hidden sm:inline">9264499252 | 9264499252</span>
           </div>
           <div className="flex gap-4">
             <a href="#" className="hover:text-[#fed7aa] transition-colors" aria-label="WhatsApp">
